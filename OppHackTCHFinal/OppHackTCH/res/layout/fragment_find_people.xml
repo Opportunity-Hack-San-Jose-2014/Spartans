@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <TextView
+        android:id="@+id/txtLabel"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:textColor="#fff"
+        android:textSize="16dp"
+                android:text="You can reach us at the following email addresses:
+\n
+President -  president@twocentsofhope.com
+\n
+\n
+Treasurer -  treasurer@twocentsofhope.com
+\n
+\n
+Project Coordinator -  projects@us.twocentsofhope.com
+\n
+\n
+Media Coordinator - media@twocentsofhope.com
+\n
+\n
+Newsletter - editor.newsletter@twocentsofhope.com
+\n
+\n
+For general information and correspondence please send emails to info@twocentsofhope.com
+\n
+\n
+For feedback and comments on the website please send emails to website@twocentsofhope.com
+\n
+\n
+Postal address:  423 WestFalen Dr, Cary, NC 27519, USA"/>
+    
+
+</RelativeLayout>
